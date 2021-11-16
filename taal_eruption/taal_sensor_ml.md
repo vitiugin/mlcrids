@@ -4,13 +4,13 @@
 
 #### Approach (K-20)
 
-the *alert was raised from level 3 to 4 on a scale of 5* and, i... RT : LAST *Strong eruption of volcano Taal Philippines this Sunday. the alert was raised from level 3 to 4 on a scale of 5* and, i... RT : **ash column... RT : ash column... RT : ash column... RT : ash column... RT : ash column... RT : ash column**
+warning: graphic content. the eruption of the Taal volcano in the Philippines has been **level 4 according to VEI**. the *alert went up from level 1 to 4 on a scale of 5* and, i... RT : LAST Strong eruption of volcano Taal Philippines this Sunday. **the alert was raised from level 3 to 4**.
 
 
 
 #### Baseline
 
-*evacuations due to the eruptions of the Taal volcano in the Philippines affect more than 30,400 people* This is serious!! *Manila and the towns near the VolcánTaal are at SERIOUS RISK*! These fractures tell us the quantity...</s>
+*evacuations due to the eruptions of the Taal volcano in the Philippines affect more than 30,400 people* This is serious!! *Manila and the towns near the VolcánTaal are at SERIOUS RISK*! These fractures tell us the quantity...
 
 
 
