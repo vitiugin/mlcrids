@@ -4,11 +4,11 @@
 
 #### Approach (K-20)
 
-<u>Multilingual</u>
+Multilingual
 
 fires in australia have **burned more than 10 million hectares** (same as Kyushu + Shikoku. the *death toll from the fires in australia rises to 27. 500 million animals, including 8,000 koalas* (30% inhabiting), were burned to death. **over 2000 houses burned down**. there are also *24 dead*. the **fires in australia are reaching almost the entire Uruguayan territory**
 
-<u>English</u>
+English
 
 fires still rage in australia resulting in the *deaths of 26 ppl*, **2000 homes destroyed** &amp; *over a BILLION animals have peri...* RT : This heroic *dog has already rescued 15 koalas* injured in australia’s bushfires RT : *10,000 camels in australia may be culled* as they compete for water with indigenous people.
 
@@ -16,11 +16,11 @@ fires still rage in australia resulting in the *deaths of 26 ppl*, **2000 homes 
 
 #### Baseline
 
-<u>Multilingual</u>
+Multilingual
 
 fires in australia have *killed more than 1,000 million animals*. fires in australia have **added 349 million tons of carbon dioxide to the atmosphere** in just 3 months. fires in australia have *killed more than 1,000 million animals*. fires in australia have *killed more than 1,000 million animals*.
 
-<u>English</u>
+English
 
 the *first two Saskatchewan fire fighters just returned* to Saskatoon after 38 days in australia helping with the wildfires. *a billion animals have been caught in australia’s fires*. some may go extinct. some of the rarest species on earth are thre... RT : *a billion animals have been caught in australia’s fires*. some may go extinct...
 
@@ -28,11 +28,11 @@ the *first two Saskatchewan fire fighters just returned* to Saskatoon after 38 d
 
 #### Centroid
 
-<u>Multilingual</u>
+Multilingual
 
 fires in australia add **349 million tons of carbon dioxide** in just 3 months. since september, the fires in australia have been raging. so far fire thing is not a unprecedented unthropods in australia, but i do not verify the one of them.
 
-<u>English</u>
+English
 
 communities across australia’s fire-ravaged southeast brace for a long day of mounting danger as *thousands abandon their homes for safety*. nearly *half a billion animals have been killed* with **more than 14.5 million acres burned**. "CLIMATE CHA... this is how much 25 million acres is.
 
@@ -40,11 +40,11 @@ communities across australia’s fire-ravaged southeast brace for a long day of 
 
 #### CX\_DB8
 
-<u>Multilingual</u>
+Multilingual
 
 *500 million animals is enough* ... this friday hurricane that **firestorms flames are in 5 634 000 ha** 56 340 for causing mo
 
-<u>English</u>
+English
 
 have been arrested for **area hectares burned**, *more that 480 million de* we underestimate ecological impact of 6 is fire. nearly ha
 
@@ -52,7 +52,7 @@ have been arrested for **area hectares burned**, *more that 480 million de* we u
 
 #### Nafi SotA
 
-<u>Multilingual</u>
+Multilingual
 
 fires in australia add **349 million tons of carbon dioxide** in just 3 months http .
 mundo australian fire smoke sofocan two latin countries details details details details details details details details details details details details details details details details details details details details details details
@@ -60,7 +60,7 @@ the pink circle represents the **10.7 million hectares burned** in australia tha
 the fires in australia are leaving *plumes of smoke up to 17 kilometers high* and firestorms h .
 **the amount of hectares burned in australia, 10.7 million hectares**, .
 
-<u>English</u>
+English
 
 *three fires merge to create massive blaze* blaze to create massive blaze .
 *nearly 200 people have been arrested* for starting disastrous fires in australia.but for celebrities, climate cha in australia.but for celebrities, climate cha for celebrities, climate cha in australia.but for celebrities,

@@ -4,11 +4,11 @@
 
 #### Approach (K-20)
 
-<u>Multilingual</u>
+Multilingual
 
 a **new heat wave is expected to hit australia** this Friday, accompanied by **gusty winds** that could have... : a big fire in australia. today friday, when **the temperature rises again**, is *the most dangerous*. it doesn't calm down.
 
-<u>English</u>
+English
 
 australia braces for another day of wildfires as **temperatures flare**. bushfires caused by **heat, drought and arson** *kill 71* and *burn more* tha... RT : Australian bushfires: towns face anxious wait as **strong winds drive fires** RT : u.s. *firefighters greeted with cheers* when they arrived in Sydney to help fight the fires
 
@@ -16,11 +16,11 @@ australia braces for another day of wildfires as **temperatures flare**. bushfir
 
 #### Baseline
 
-<u>Multilingual</u>
+Multilingual
 
 *US firefighters arrive in australia* to help with the fires **Hurricane-force winds generate a gigantic "megafire"** in australia **Strong winds** make forest and land fires in australia Trigger fire storms. the *smoke from the fire in australia reaches Buenos aires and Uruguay* Massive *protest in australia* for forest fires.
 
-<u>English</u>
+English
 
 australian bushfires caused by **heat, drought and arson** *kill 71* and *burn more than half a million hectares*. about *150 firefighters battled a bushfire* that *burnt through 300+ hectares* in **strong winds** in baldivis, south of Perth in... RT : australia to *cull thousands of camels*. we are in the midst of *a camel cull of some 10000*, and then a burning of carcasses.
 
@@ -28,11 +28,11 @@ australian bushfires caused by **heat, drought and arson** *kill 71* and *burn m
 
 #### Centroid
 
-<u>Multilingual</u>
+Multilingual
 
 australia's forest fires acquire apocalyptic dimensions: *they have issued more CO2 to the atmosphere 49 million tons*. **hurricane force winds generate a gigantic "megaincliance"** in australia. this friday **hurricane winds have caused the merger of two huge fires** to southeast australia, ASOL
 
-<u>English</u>
+English
 
 australia bushfires: towns face anxious wait as **strong winds** drive fires. Australia weather bureau sees **no sign of cooler weather or rain** to quell bushfires. australia has had hotter summers in recorded history. bushfires are getting worse with **extreme temperatures and gale forced winds** expected over the weekend.
 
@@ -40,11 +40,11 @@ australia bushfires: towns face anxious wait as **strong winds** drive fires. Au
 
 #### CX\_DB8
 
-<u>Multilingual</u>
+Multilingual
 
 *smoke up to 17 kilometers high and firestorms* h ... this friday **hurricane winds have in australia are smoke columns** up to 
 
-<u>English</u>
+English
 
 wildfires as **temperatures flare** this average actually increasing slightly over the last reduction update from me and agencies australian bushfire
 
@@ -52,7 +52,7 @@ wildfires as **temperatures flare** this average actually increasing slightly ov
 
 #### Nafi SotA
 
-<u>Multilingual</u>
+Multilingual
 
 australia **hurricane force winds generate a gigantic megafire**, more *people flee their homes and increase the protections* protections increase the protections .
 australias forest fires acquire apocalyptic dimensions *they have issued more co2 to the atmosphere 49 million* .
@@ -60,7 +60,7 @@ the storm is calm in the storm .
 the **hurricane winds generate in australia a gigantic megaincliance** megaincliance in australia a gigantic megaincliance megaincliance .
 the **hurricane winds generate in australia a gigantic megainting** megainting in australia a gigantic megainting megainting
 
-<u>English</u>
+English
 
 **heatwave, strong winds** fan australia bushfire threat via science news news australia bushfire threat via science news news australia bushfire threat via science news news australia bushfire threat via science
 **strong winds** is the last thing australians need right now... now... now... now... australians need right now... now... now... now... right now... now... .
