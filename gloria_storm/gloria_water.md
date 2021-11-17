@@ -16,17 +16,31 @@ storm Gloria **raises a spectacular white blanket of sea foam that has covered t
 
 #### Centroid
 
+Multilingual
+
 **the catalan coast is suffering the worst storm** in the levante of this century. **the high waves** are beginning to *sink some boats in the Port Olimpic of Barcelona*. the eastern *storm will leave real waterspouts*. **more than 200 l / m2 will accumulate in some areas**
+
+English
+
+Video Shows Waist-High **Sea Foam FLOODING A Spanish Town** After Deadly Winter Storm Gloria. storm Gloria: *wind, rain, flooding and snow* batter parts of spain. fantastic thread on the history and likely **demise of the ebro delta** estuary in spain.
 
 
 
 #### CX\_DB8
 
+Multilingual
+
 flooding the catalan coast is **waters penetrate sink in the port olmpic** of blanket of sea **sea foam reaches the tossa de mar**
+
+English
+
+the **streets of this spanish town are sea foam** storm the city **sea foam the town of tossa** deadly storm gloria the delay. 
 
 
 
 #### Nafi SotA
+
+Multilingual
 
 storm gloria hits catalonia with force. in **girona the flooding of several rivers worries**. snow makes trans .
 **high waves** are beginning to *sink some boats in the port olmpic of barcelona*. gloria gloria .
@@ -34,3 +48,10 @@ the catalan coast is suffering the worst storm in the levante of this century wh
 ale the eastern **storm will leave real waterspouts**. more than **200 m2 will accumulate in some areas** .
 e alea will leave **real waterspouts**. more than **200 m2**
 
+English
+
+waisthigh **sea foam flooding a spanish town** .
+storm gloria *wind, rain, flooding and snow* batter parts of spain .
+waisthigh **sea foam flooding a spanish town** after deadly winter storm gloria gloria gloria .
+storm gloria *wind, rain, flooding and snow* batter parts of spain .
+storm gloria *wind, rain, flooding and snow* batter parts of spain .
