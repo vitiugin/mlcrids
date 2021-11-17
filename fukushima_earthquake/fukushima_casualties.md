@@ -8,11 +8,13 @@ Multilingual
 
 **more than a hundred people were injured** in japan Japon terremoto fukushima. Depending on the fire departments of various regions, **102 people in total were injured** during the trembling of the earthquake
 
+IN — 2, UIN — 2, OUT — 0, UOUT — 0 
+
 English
 
 *a magnitude 7.3 earthquake* struck northeastern japan on saturday night. **more than 100 people were injured** and *trains were halted* over a wide swath of northeastern japan. the quake hit off the coast of fukushima prefecture in northeastern Japan
 
-
+IN — 1, UIN — 1, OUT — 2, UOUT — 2 
 
 #### Baseline
 
@@ -20,11 +22,13 @@ Multilingual
 
 northeastern earthquake of japan left **at least a hundred wounded**. **more than a hundred people were injured** in japan Japon terremoto fukushima. **at least 20 wounded** in earthquake in the northeast of japan.
 
+IN — 2, UIN — 2, OUT — 0, UOUT — 0
+
 English
 
 **115 people have been injured** in northeastern japan, but **no deaths have been reported** from the earthquake. **at least 30 people were injured** after an earthquake with *a magnitude of 7.3* struck off fukushima prefecture in northeastern japan. *trains were halted* over a wide swath of northeastern jap...
 
-
+IN — 3, UIN — 3, OUT — 2, UOUT — 2 
 
 #### Centroid
 
@@ -32,11 +36,13 @@ Multilingual
 
 northeastern earthquake of japan left at least **a hundred wounded**. number of people injured by the terremite of *magnitude 7.1* that shook fukushima **ascended to 124**, while... landslides, *light cuts* and *partial train services*
 
+IN — 2, UIN — 2, OUT — 2, UOUT — 2
+
 English
 
 *7.3-magnitude quake* strikes off northeastern japan, **injuring over 100**. aftershock of 2011 quake that **killed thousands** *triggered landslide*. quake 'likely' to be aftershock of 2011 quake that **killed tens of thousands**.
 
-
+IN — 3, UIN — 3, OUT — 2, UOUT — 2
 
 #### CX\_DB8
 
@@ -44,11 +50,13 @@ Multilingual
 
 wounded url url *blackouts* url japan at least url japan **the number of people injured** by in japan japon terremoto fukushima. japan
 
+IN — 1, UIN — 1, OUT — 1, UOUT — 1
+
 English
 
 100plus *a 7.3magnitude earthquake* japans **injured dozens of people**, authorities after japan earthquake **injures 100 people**, quake that **killed thou**
 
-
+IN — 3, UIN — 3, OUT — 1, UOUT — 1
 
 #### Nafi SotA
 
@@ -60,6 +68,8 @@ sismo in fukushima region leaves **several wounded** and *blackouts* url .
 japan earthquake leaves **at least a hundred wounded** internations url url url url url url url url url url url url url url url url url url url url .
 japan leaves **at least a hundred injured** url .
 
+IN — 5, UIN — 3, OUT — 2, UOUT — 2
+
 English
 
 powerful earthquake strikes japan, **lightly injuring over 100 people** over 100 people injuring over 100 people over 100 people .
@@ -67,3 +77,5 @@ powerful earthquake strikes japan, **lightly injuring over 100 people** over 100
 *a magnitude 7.1 earthquake* hit off fukushima prefecture in northeastern japan late saturday .
 *a 7.1magnitude earthquake* today **killed thousands**, japans .
 *a 7.3magnitude earthquake* off japans fukushima **injured dozens of people**, authorities said, nearly 10 years .
+
+IN — 3, UIN — 3, OUT — 4, UOUT — 4

@@ -8,11 +8,13 @@ Multilingual
 
 A **kangaroo can't help but hug the volunteers who rescued him** in australia. a bitch **rescued a koala that had been lost** in australia. a **kangaroo can't help but hug the volunteers** who rescued him in australia.
 
+IN — 3, UIN — 3, OUT — 0, UOUT — 0
+
 English
 
 **over 600 bats were transported** from caring facilities evacuated in new south wales due to fire. **australia zoo is helping to save the lives of over 90,000 animals** hurt in fires in australia. **the zoo treats over 90,000 animals** hurt in fires in australia
 
-
+IN — 3, UIN — 3, OUT — 0, UOUT — 0 
 
 #### Baseline
 
@@ -20,11 +22,13 @@ Multilingual
 
 **100 fire brigade members arrived from the united states from the united states to support the fire fighting activities of forest fires**. the **american firefighters came as reinforcements greeted as heroes** in sydney. australian people who are applauding - pray for the safety of my sister, one of the fire and **rescue members, who will leave for australia**.
 
+IN — 3, UIN — 3, OUT — 0, UOUT — 0 
+
 English
 
 *the total area burnt in australia has reached a poignant size for me, 32,500 sq miles*. "there are currently 8 active fires in NSW and victoria which are bigger than california’s largest blaze on record" 
 
-
+IN — 0, UIN — 0, OUT — 1, UOUT — 1 
 
 #### Centroid
 
@@ -32,11 +36,13 @@ Multilingual
 
 the **heroes on four legs rescue fire animals** in australia **72 thousand volunteer firefighters fight the flames** in australia. **volunteers from the u.s. are received with applause when arriving at australia** to fight the devastating. fires in australia are *leaving smoke columns up to 17 kilometers high* and "firestorms"
 
+IN — 3, UIN — 3, OUT — 1, UOUT — 1 
+
 English
 
 **the first two Saskatchewan fire fighters just returned to Saskatoon** after 38 days in australia helping with the wildfires. australia has **4000 women volunteer firefighters** and there are women in the us crew.
 
-
+IN — 2, UIN — 2, OUT — 0, UOUT — 0 
 
 #### CX\_DB8
 
@@ -44,11 +50,13 @@ Multilingual
 
 the flames in australia. canal 1 tele . **100 australia embracing their rescuers** they ask **240,000 people to evacuate areas** threatened
 
+IN — 2, UIN — 2, OUT — 0, UOUT — 0 
+
 English
 
 **there are women climate protests in australia amid bushfire evacuations** to assist australia to help battle the the sound of cheering
 
-
+IN — 1, UIN — 1, OUT — 0, UOUT — 0 
 
 #### Nafi SotA
 
@@ -60,6 +68,8 @@ Multilingual
 **man rescues koalas** in his car .. koalas in his car .. australia australiafire koalas in his car .. australia australiafire koalas in his car .. australia australiafire koalas in
 **240,000 people to evacuate areas** threatened by fires in australia
 
+IN — 5, UIN — 5, OUT — 0, UOUT — 0 
+
 English
 
 **the first two saskatchewan fire fighters returned to saskatoon** after 38 days in australia helping with the wildfires wildfires helping with the wildfires wildfires helping with the wildfires wildfires helping
@@ -67,3 +77,5 @@ English
 *hundreds of animals during wildfires* raging across au au .
 sdm*1 an injured koala recuperates* at the kangaroo island wildlife park on kangaroo island, australia. *more than 1 billion animal* animal australia. more than 1 billion animal animal australia. more
 video of us **soldiers arriving to help** contain the fires started by arsons in australiaa well deserved standing ovation standing ovation standing ovation standing ovation standing ovation standing ovation standing
+
+IN — 3, UIN — 3, OUT — 3, UOUT — 3 
