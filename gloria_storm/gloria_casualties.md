@@ -1,4 +1,4 @@
-### Multilingual — Gloria storm — Casualties
+### Gloria storm — Casualties
 
 
 

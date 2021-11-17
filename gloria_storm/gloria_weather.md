@@ -1,4 +1,4 @@
-### Multilingual — Gloria storm — Weather
+### Gloria storm — Weather
 
 
 

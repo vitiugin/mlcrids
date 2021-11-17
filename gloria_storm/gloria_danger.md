@@ -1,4 +1,4 @@
-### Multilingual — Gloria storm — Danger
+### Gloria storm — Danger
 
 
 

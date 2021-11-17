@@ -1,4 +1,4 @@
-### Multilingual — Gloria storm — Blackout
+### Gloria storm — Blackout
 
 
 

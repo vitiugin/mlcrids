@@ -1,4 +1,4 @@
-### Multilingual — Australia bushfires — Damage
+### Fukushima earthquake — Damage
 
 
 

@@ -1,4 +1,4 @@
-### Multilingual — Australia bushfires — Casualties
+### Australia bushfires — Casualties
 
 
 

@@ -1,4 +1,4 @@
-### Multilingual — Australia bushfires — Service
+### Australia bushfires — Service
 
 
 

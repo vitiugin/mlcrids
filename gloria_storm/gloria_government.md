@@ -1,4 +1,4 @@
-### Multilingual — Gloria storm — Government
+### Gloria storm — Government
 
 
 

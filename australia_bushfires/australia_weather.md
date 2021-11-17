@@ -1,4 +1,4 @@
-### Multilingual — Australia bushfires — Weather
+### Australia bushfires — Weather
 
 
 

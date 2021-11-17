@@ -1,4 +1,4 @@
-### Multilingual — Australia bushfires — Danger
+### Australia bushfires — Danger
 
 
 
