@@ -4,11 +4,15 @@
 
 #### Approach (K-20)
 
+Multilingual
+
 **the sea goes upstream** Gloria Gloria will **travel to the Gulf of Cádiz sending rains to extremadura**. RT : *Vandalized homes*, *vandalized boardwalks*, and *rubble-strewn businesses*. it is the chaos that the storm has left... RT : **Several streets adjacent to the Passeig de mar in Girona have been flooded with sea foam**
 
 IN — 3, UIN — 3, OUT — 1, UOUT — 1
 
 #### Baseline
+
+Multilingual
 
 storm Gloria **raises a spectacular white blanket of sea foam that has covered the streets in tossa de mar (Girona)** RT : *homes destroyed*, *promenades destroyed* and *businesses full of rubble*. it is the chaos that the storm has left '... **The Ebro delta has practically disappeared the sea goes upstream Gloria**... RT : **ACCESS TO THE BESOS RIVER PARK IS TOTALLY PROHIBITED**. **park flood alert**. evacuation area and closed access...
 

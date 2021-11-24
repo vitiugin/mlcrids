@@ -4,7 +4,7 @@
 
 #### Approach (K-20)
 
-Multilingual
+Cross-lingual
 
 great earthquakes shaken Croatia, *part of Zagreb has no electricity*, **damaged cathedral tower** and **numerous building buildings**. **hospitals** and **churches, including the iconic Zagreb cathedral**, are also affected. a third earthquake shrewd Zagreb: there are *no electricity* and *water* in some parts, **damaged hospital** ribs and holy spirit
 
@@ -16,9 +16,47 @@ English
 
 IN — 2, UIN — 2, OUT — 3, UOUT — 2
 
+
+
+#### Approach (K-100, ordered)
+
+Cross-lingual
+
+part of the tower of the Zagreb cathedral collapsed after the earthquake. the capital of Croatia suffered collapses...[Photo / video] catastrophic earthquake hit Zagreb crashed the roof of the cathedral, cars destroyed 
+
+[1](http://twitter.com/anyuser/status/1241741296579932163), [2](http://twitter.com/anyuser/status/1241636792698384384), [3](http://twitter.com/anyuser/status/1241767487127072768)
+
+strong earthquake hit zagreb this morning, and especially its central part, caused material damage and on the buildings of judicial bodies. citizens arise that things were falling with shelves, pictures from the walls, some have cracked the windows and many say such a hit in Zagreb does not remember, it says free Dalmatia. 
+
+[1](http://twitter.com/anyuser/status/1241667814278209537), [2](http://twitter.com/anyuser/status/1241687528522035201), [3](http://twitter.com/anyuser/status/1241652603743883264)
+
+third earthquake shrewd Zagreb: there are no electricity and water in some parts, damaged hospital ribs and holy spirit (An earthquake damaged the Orthodox cathedral in Zagreb) the terrible earthquake in Zagreb also seriously affected the hospital infrastructure in Zagreb. 
+
+[1](http://twitter.com/anyuser/status/1241637112262336512), [2](http://twitter.com/anyuser/status/1241740605744730112), [3](http://twitter.com/anyuser/status/1241804561842569216)
+
+IN — x, UIN — x, OUT — x, UOUT — x
+
+
+
+#### Approach (K-100, unordered)
+
+Cross-lingual
+
+strong earthquake hit zagreb this morning, and especially its central part, caused material damage and on the buildings of judicial bodies. citizens arise that things were falling with shelves, pictures from the walls, some have cracked the windows and many say such a hit in Zagreb does not remember, it says free Dalmatia. 
+
+[1](http://twitter.com/anyuser/status/1241667814278209537), [2](http://twitter.com/anyuser/status/1241687528522035201), [3](http://twitter.com/anyuser/status/1241652603743883264)
+
+third earthquake shrewd Zagreb: there are no electricity and water in some parts, damaged hospital ribs and holy spirit (An earthquake damaged the Orthodox cathedral in Zagreb) the terrible earthquake in Zagreb also seriously affected the hospital infrastructure in Zagreb. 
+
+[1](http://twitter.com/anyuser/status/1241637112262336512), [2](http://twitter.com/anyuser/status/1241740605744730112), [3](http://twitter.com/anyuser/status/1241804561842569216)
+
+IN — x, UIN — x, OUT — x, UOUT — x
+
+
+
 #### Baseline
 
-Multilingual
+Cross-lingual
 
 strong earthquake hit Zagreb, **fell the top of the cathedral**. **hospitals** and **churches, including Zagreb cathedral**, are also affected. *army came out on the streets* of Zagreb engaged in cleaning the ruins. *red cross started with the division of food for all citizens* who can not return to their homes.
 
@@ -32,7 +70,7 @@ IN — 1, UIN — 1, OUT — 3, UOUT — 3
 
 #### Centroid
 
-Multilingual
+Cross-lingual
 
 Croatia had an *earthquake of magnitude 5.3* and it was *registered 7 kilometers from the capital Zagreb*, generating **significant damage** to the in. a *6.0 magnitude earthquake* is registered in. Zagreb- Croatia, **material damage is considerable**
 
@@ -46,7 +84,7 @@ IN —1, UIN — 1, OUT — 2, UOUT — 2
 
 #### CX\_DB8
 
-Multilingual
+Cross-lingual
 
 croatia, **material damage is considerable**. one **buildings were damaged**, including the **iconic zagreb cathedral** of earthquakes *injuries* and significant
 
@@ -60,7 +98,7 @@ IN — 0, UIN — 0, OUT — 0, UOUT — 0
 
 #### Nafi SotA
 
-Multilingual
+Cross-lingual
 
 croatia had an earthquake of *magnitude 5.3* and it was registered *7 kilometers from the capital zagreb*, generating **significant damage** to the in
 the information street **damages basilica** in the zagr street .
