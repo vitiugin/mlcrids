@@ -22,19 +22,19 @@ IN — 2, UIN — 2, OUT — 3, UOUT — 2
 
 Cross-lingual
 
-part of the tower of the Zagreb cathedral collapsed after the earthquake. the capital of Croatia suffered collapses...[Photo / video] catastrophic earthquake hit Zagreb crashed the roof of the cathedral, cars destroyed 
+**part of the tower of the Zagreb cathedral collapsed** after the earthquake. the capital of Croatia suffered collapses...[Photo / video] catastrophic **earthquake hit Zagreb crashed the roof of the cathedral**, **cars destroyed** 
 
 [1](http://twitter.com/anyuser/status/1241741296579932163), [2](http://twitter.com/anyuser/status/1241636792698384384), [3](http://twitter.com/anyuser/status/1241767487127072768)
 
-strong earthquake hit zagreb this morning, and especially its central part, caused material damage and on the buildings of judicial bodies. citizens arise that things were falling with shelves, pictures from the walls, some have cracked the windows and many say such a hit in Zagreb does not remember, it says free Dalmatia. 
+strong earthquake hit zagreb this morning, and especially its **central part**, caused **material damage** and on the **buildings of judicial bodies**. citizens arise that **things were falling with shelves, pictures from the walls**, some **have cracked the windows** and many say such a hit in Zagreb does not remember, it says free Dalmatia. 
 
 [1](http://twitter.com/anyuser/status/1241667814278209537), [2](http://twitter.com/anyuser/status/1241687528522035201), [3](http://twitter.com/anyuser/status/1241652603743883264)
 
-third earthquake shrewd Zagreb: there are no electricity and water in some parts, damaged hospital ribs and holy spirit (An earthquake damaged the Orthodox cathedral in Zagreb) the terrible earthquake in Zagreb also seriously affected the hospital infrastructure in Zagreb. 
+third earthquake shrewd Zagreb: there are *no electricity and water* in some parts, **damaged hospital ribs** and holy spirit (An **earthquake damaged the Orthodox cathedral in Zagreb**) the terrible earthquake in Zagreb also seriously **affected the hospital infrastructure** in Zagreb. 
 
 [1](http://twitter.com/anyuser/status/1241637112262336512), [2](http://twitter.com/anyuser/status/1241740605744730112), [3](http://twitter.com/anyuser/status/1241804561842569216)
 
-IN — x, UIN — x, OUT — x, UOUT — x
+IN — 12, UIN — 12, OUT — 1, UOUT — 1
 
 
 
@@ -42,15 +42,15 @@ IN — x, UIN — x, OUT — x, UOUT — x
 
 Cross-lingual
 
-strong earthquake hit zagreb this morning, and especially its central part, caused material damage and on the buildings of judicial bodies. citizens arise that things were falling with shelves, pictures from the walls, some have cracked the windows and many say such a hit in Zagreb does not remember, it says free Dalmatia. 
+strong earthquake hit zagreb this morning, and especially its **central part**, caused **material damage** and on the **buildings of judicial bodies**. citizens arise that **things were falling with shelves**, **pictures from the walls**, some **have cracked the windows** and many say such a hit in Zagreb does not remember, it says free Dalmatia. 
 
 [1](http://twitter.com/anyuser/status/1241667814278209537), [2](http://twitter.com/anyuser/status/1241687528522035201), [3](http://twitter.com/anyuser/status/1241652603743883264)
 
-third earthquake shrewd Zagreb: there are no electricity and water in some parts, damaged hospital ribs and holy spirit (An earthquake damaged the Orthodox cathedral in Zagreb) the terrible earthquake in Zagreb also seriously affected the hospital infrastructure in Zagreb. 
+third earthquake shrewd Zagreb: there are *no electricity and water* in some parts, **damaged hospital ribs** and holy spirit (An **earthquake damaged the Orthodox cathedral in Zagreb**) the terrible earthquake in Zagreb also seriously **affected the hospital infrastructure** in Zagreb. 
 
 [1](http://twitter.com/anyuser/status/1241637112262336512), [2](http://twitter.com/anyuser/status/1241740605744730112), [3](http://twitter.com/anyuser/status/1241804561842569216)
 
-IN — x, UIN — x, OUT — x, UOUT — x
+IN — 9, UIN — 9, OUT — 1, UOUT — 1
 
 
 
