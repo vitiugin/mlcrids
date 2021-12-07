@@ -6,7 +6,7 @@
 
 Cross-lingual
 
-great earthquakes shaken Croatia, *part of Zagreb has no electricity*, **damaged cathedral tower** and **numerous building buildings**. **hospitals** and **churches, including the iconic Zagreb cathedral**, are also affected. a third earthquake shrewd Zagreb: there are *no electricity* and *water* in some parts, **damaged hospital** ribs and holy spirit
+great earthquakes shaken Croatia, *part of Zagreb has no electricity*, **damaged cathedral tower** and **numerous building buildings**. **hospitals** and **churches, including the iconic Zagreb cathedral**, are also affected. a third earthquake shrewd Zagreb: there are *no electricity* and *water* in some parts, **damaged hospital ribs** and holy spirit
 
 IN — 5, UIN — 1, OUT — 3, UOUT — 2
 
@@ -104,7 +104,7 @@ croatia had an earthquake of *magnitude 5.3* and it was registered *7 kilometers
 the information street **damages basilica** in the zagr street .
 the **tower of the zagreb cathedral collapsed** after the capital of croatia suffered collapses .
 two earthquakes cause **serious material damage** .
-*croatia6.0 magnitude* earthquake is registered in zagreb croatia, **material damage is still no r**
+*croatia6.0 magnitude* earthquake is registered in zagreb croatia, **material damage** is still no r
 
 IN — 5, UIN — 5, OUT — 3, UOUT — 3
 
