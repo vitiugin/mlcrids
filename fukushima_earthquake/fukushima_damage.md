@@ -1,62 +1,64 @@
 ### Fukushima earthquake — Damage
 
 
-
-#### Approach (K-20)
+#### Diversified Approach
 
 Multilingual
 
-**water in the spent fuel pools of reactors 5 and 6 of the nuclear power plant spilled**. NBC also brief report. it is exactly Japan that the **house is not crushed** by this magnitude. let's leave a record that can prove damage, let's leave the damage that can prove damage, and let's give a thing of damage or more for damage
-
-IN — 2, UIN — 2, OUT — 0, UOUT — 0
+**water in the spent fuel pools of reactors 5 and 6 of the fukushima I nuclear power plant spilled**. earthquake of february 13 in Japan led to the overflow of water from the pools containing worn fuel in two centra...
+earthquake of *magnitude 7.1* shook the coast of fukushima in japan..1 degree Sismo shook Japan and left *more than 20 injured*. earthquake of *magnitude 7.3* shook the coast of fukushima in japan.
 
 English
 
-a large earthquake with *a seismic intensity of 6 or higher* occurred mainly in fukushima and miyagi prefectures. a **5m statue in the inari shrine had collapsed on a parked car** in the central part of fukushima city during *the 7.3 earthquake*. a *7.3 magnitude earthquake* struck off the coast of japan
+magnitude of the earthquake in japan was upgraded to a *M7.3*. *860,000 homes were without power* as a result of the quake. *7.3 magnitude* earthquake struck off the coast of eastern japan, close to fukushima.
+a strong earthquake with a preliminary *magnitude of 7.1* hit off the coast of eastern japan on Saturday, *injuring dozens of people* and triggering **widespread damage**. a strong earthquake with a preliminary *magnitude of 7.2* hit off the coast of eastern japan on saturday, *injuring dozens of people* and triggering **widespread damage**. *more than 100 people were injured* and *trains were halted* in Japan after the region was hit
 
-IN — 1, UIN — 1, OUT — 3, UOUT — 3
+
+#### Approach
+
+Multilingual
+
+was feared when the earthquake yesterday was the condition of a nuclear reactor in fukushima, and alhamdulillah there was no damage.... 7.3, Ministry of foreign affairs: There are *no victims* of Indonesian citizens in fukushima, japan, ministry of foreign affairs: there are *no victims* of the citizen.*earthquake of 7.3* versus fukushima's coasts in japan has **not caused abnormalities in nuclear plates**. *earthquake of 7.1* versus fukushima's coasts in japan has **not caused abnormalities in nuclear plates**. earthquake, **radioactive wastewater spill** URL.1 Japan URL.URL earthquake of february 13 in Japan led to the **overflow of water from the spent fuel pools of reactors 5 and 6 of the nuclear power plant**. some *950 thousand homes have run out of electricity supply* as a result of the earthquake in Japan.
+
+English
+
+a *7.1-magnitude* earthquake has hit Japan just off the coast of fukushima. there *doesn’t appear to be a tsunami* threat after the quake. a *7.1-magnitude* earthquake has hit japan just off the fukushima coast. there is *no tsunami warning*.a *magnitude 7.2* earthquake struck off the coast of japan on saturday, *injuring dozens of people* and triggering **widespread damage**. reports indicate that **spent fuel pools at fukushima daiichi have spilled some radioactive water** as a result of shaking. a *magnitude 7.3* earthquake struck off the coast of eastern japan on saturday, *injuring dozens of people* and triggering widespread dam
+
 
 #### Baseline
 
 Multilingual
 
-*terremoto 7.3 shook Japan* at 23: 07hrslocal from February 13, 2021 (08: 07hrs centromexico) with *epicenter at 63km to the north*. a moderate earthquake of *magnitude mb=5.2, was registered at 53 KM ESE of Kamaishi*, prefecture of Iwate. a mild earthquake of *magnitude M4.4, was registered at 71 KM ENE of Namie*, prefecture of Fukushima
-
-IN — 0, UIN — 0, OUT — 4, UOUT — 4
+*7.1 Japan submarine earthquake* for at least 3 hours! ..7.1 sr...?? Protect them god... japan? 7.1 sr still don't panic. 7.1 sr feels under 5 SR aka there the building is tough yes, if it's possible that it has been roboken Japan *Earthquake m7.2*. the balance of *the victims of the earthquake amounted to 50 people* URLs : japan: the balance of the victims of  japan
 
 English
 
-*a magnitude 7.1 earthquake* has occurred in northeastern japan. there will be seismic activity worldwide now. the *magnitude of the fukushima earthquake in japan has been revised*, and strong earthquakes may still occur.
+*7.1 earthquake* hits Japan's northeast coast; *no tsunami alert*. earthquake struck off the coast of eastern japan on Saturday, *injuring dozens of people* and triggering widespread... *7.1 earthquake* in japan today and no ones said shit about it. a large earthquake with a *seismic intensity of 6* or higher occurred mainly in fukushima and miyagi prefectures. a **5m statue in the inari shrine had collapsed on a parked car in the central part**
 
-IN — 0, UIN — 0, OUT — 2, UOUT — 2
 
 #### Centroid
 
 Multilingual
 
-*15 injured*, **damage to homes**, landslides, *light cuts* and *train services suspended* in fukushima. bookstores and collectors share the disaster in which **their lib was destroyed**. a strong *earthquake has occurred 7.1 on the Richter* scale in japan
-
-IN — 2, UIN — 2, OUT — 4, UOUT — 4
+_Universal_MX: 🗾 **Damage to the outside and interior of buildings** in Fukushima are observed, due to the *7.1 earthquake* that was lived this ...  : ⚠ Update: *15 injured*, **damage to homes**, **landslides**, *light cuts* and *partial train services* ...  : A strength earthquake has occurred *7.1 on the Richter scale* in Japan.
+Let's leave a record that can prove damage, leave a record that can prove damage, and let's give a thing of damage or more for damage  _News: Ministry of Education, Ministry of Industry ""**10 Thermal Power Stations Stop**"" URL tbs tbs_news japan news  : NBC also brief report.
 
 English
 
-*7.3 magnitude earthquake strikes* off japan’s coast sparking fears of nuclear plant ‘leak’. Tokyo *electric power co. said that some 860,000 homes were without power* as a result of the quake. residents in north-eastern Japan on Sunday cleaned up clutter in stores and homes after a strong earthquake set off a landslide.
+Powerful *7.3 magnitude* earthquake strikes off Japan’s coast sparking fears of nuclear plant ‘leak’
+  : **Damaged buildings** in Fukushima.
 
-IN — 0, UIN — 0, OUT — 2, UOUT — 2
 
 #### CX\_DB8
 
 Multilingual
 
-*7.1 earthquake* that damage to landslides, cuts and partial injured, **damage to housing**, landslides, *light cuts* landslides, which houses and 
-
-IN — 1, UIN — 1, OUT — 2, UOUT — 2
+to the 7.1 that update *15 injured*, to cuts services ... *earthquake 7.1* on that the damage is **small landslides**, *light services suspended* in in new the without energy in japan after than **reactor resistant building** tv a the
 
 English
 
-said that some strong earthquake magos this **little damage** to there spilled some f *7.3 earthquake* off japan causes injuries so 
+**damage from the train station** in to fill with water after a powerful power plants on east its only news a *magnitude 7.3* earthquake struck on time. started fill with water after powerful
 
-IN — 1, UIN — 1, OUT — 1, UOUT — 1
 
 #### Nafi SotA
 

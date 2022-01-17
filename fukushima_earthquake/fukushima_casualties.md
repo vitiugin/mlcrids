@@ -1,62 +1,67 @@
 ### Fukushima earthquake — Casualties
 
 
-
-#### Approach (K-20)
+#### Diversified Approach
 
 Multilingual
 
-**more than a hundred people were injured** in japan Japon terremoto fukushima. Depending on the fire departments of various regions, **102 people in total were injured** during the trembling of the earthquake
-
-IN — 2, UIN — 2, OUT — 0, UOUT — 0 
+Depending on the fire departments of various regions, **102 people in total were injured** during the trembling of the earthquake. **at least 30 people were injured** after a *7.3-size earthquake hit* the fukushima region in northeastern japan.
+**more than a hundred people were injured** in Japan Japon terremoto fukushima. he was felt off fukushima, with a *magnitude of 7.3*. the powerful registered earthquake from fukushima has made a **hundred wounded**.
 
 English
 
-*a magnitude 7.3 earthquake* struck northeastern japan on saturday night. **more than 100 people were injured** and *trains were halted* over a wide swath of northeastern japan. the quake hit off the coast of fukushima prefecture in northeastern Japan
+*3 quake hits off northeastern Japan*, **injuring over 50**. **at least 30 people were injured** after an earthquake with a preliminary *magnitude of 7.3* struck off fukushima prefecture in northeastern japan. **at least 74 people injured** in massive *7.3 magnitude* earthquake in japan.
+a strong earthquake hit off the coast of eastern japan on saturday, **injuring dozens of people** and triggering widespread... *7.3 magnitude* earthquake strikes off the coast of eastern japan sparking fears of a nuclear plant 'leak'
 
-IN — 1, UIN — 1, OUT — 2, UOUT — 2 
+
+#### Approach
+
+Multilingual
+
+the number of people injured by the terremite of *magnitude 7.1* that shook fukushima **ascended to 124**, while... the balance of the **victims of the earthquake amounted to 50 people**. Until now *950 thousand houses reported in the affected area* of the earthquake experienced electric death.a *7.3 magnitude* earthquake struck Japan on the evening of february 13th. more than a **hundred wounded** in a powerful earthquake off fukushima. *nearly one million homes are deprived of electricity*. Dozens wounded are to be deplored in the prefecture.**at least 30 people were injured** after an earthquake of a *magnitude of 7.3* magnitude on the scale of... URL in Japan: there are already **124 the figures of wounded** in miyagi and fukushima URL. an *earthquake of 7.1 degrees* on the Richter scale shook Japan. there are **many wounded and hundreds of lost**.
+
+English
+
+**115 people have been injured** in northeastern japan, but **no deaths** have been reported from the earthquake. a *magnitude 7.3* earthquake hit off the coast of eastern japan on saturday night, **injuring dozens of people** and triggering widespread...at least **74 people injured** in massive *7.3 magnitude* earthquake in japan. there was a 6.6 in japan earlier today and another one a day or two ago in south asia.
+a strong earthquake hit Japan's northeast coast late Saturday, shaking fukushima and other regions. *no tsunami alert* has been issued. the earthquake **injures 100 people**, triggers landslide ahead of 10-year tsunami anniversary earthquake **injures 100 people**, triggers *landslide*.
+
 
 #### Baseline
 
 Multilingual
 
-northeastern earthquake of japan left **at least a hundred wounded**. **more than a hundred people were injured** in japan Japon terremoto fukushima. **at least 20 wounded** in earthquake in the northeast of japan.
-
-IN — 2, UIN — 2, OUT — 0, UOUT — 0
+earthquake of *magnitude 7.1* shook the coast of fukushima, in the east of japan. at the moment *8500 homes in miyagi are without electricity*, post earthquake.
 
 English
 
-**115 people have been injured** in northeastern japan, but **no deaths have been reported** from the earthquake. **at least 30 people were injured** after an earthquake with *a magnitude of 7.3* struck off fukushima prefecture in northeastern japan. *trains were halted* over a wide swath of northeastern jap...
+*trains were halted* over a wide swath of northeastern japan on sunday after **more than 100 people were injured** in an earthquake. **at least 30 people were injured** after an earthquake with a *magnitude of 7.3* struck off fukushima prefecture in northeastern japan. an earthquake with a preliminary *magnitude of 7.3* struck off fukushima prefecture in northeastern japan on sunday. a *landslide caused by the quake* caused
 
-IN — 3, UIN — 3, OUT — 2, UOUT — 2 
 
 #### Centroid
 
 Multilingual
 
-northeastern earthquake of japan left at least **a hundred wounded**. number of people injured by the terremite of *magnitude 7.1* that shook fukushima **ascended to 124**, while... landslides, *light cuts* and *partial train services*
-
-IN — 2, UIN — 2, OUT — 2, UOUT — 2
+Leave *7.1 magnitude earthquake* in Fukushima, Japan  URL URL.
+URL  : URL.
+Wait, there's not a nuclear power plant in that corner?
+URL  The earthquake was basty but only **70 people were injured and 0 deaths**, it proved that Japan was ready ... url
 
 English
 
-*7.3-magnitude quake* strikes off northeastern japan, **injuring over 100**. aftershock of 2011 quake that **killed thousands** *triggered landslide*. quake 'likely' to be aftershock of 2011 quake that **killed tens of thousands**.
+Casualties are being assessed': Japan cleans up after *7.3-magnitude* earthquake   : Powerful earthquake strikes Japan, lightly **injuring over 100 people**   : A *magnitude 7.1* earthquake hit off Fukushima prefecture in northeastern Japan late Saturday night, leaving **several injured** a…  : *M7.3 quake* hits off northeastern Japan, **injuring over 50**: An earthquake with a preliminary *magnitude of 7.3* struck off Japa…  : Japan gov't scrambles for info as *M7.3 quake* leaves **100-plus injured**   A *7.3-magnitude* earthquake off Japan's Fukushima **injured dozens of people**, authorities said, nearly 10 years after…   : Japan earthquake **injures 100 people**, triggers *landslide* ahead of 10-year tsunami anniversary
 
-IN — 3, UIN — 3, OUT — 2, UOUT — 2
+
 
 #### CX\_DB8
 
 Multilingual
 
-wounded url url *blackouts* url japan at least url japan **the number of people injured** by in japan japon terremoto fukushima. japan
-
-IN — 1, UIN — 1, OUT — 1, UOUT — 1
+in japan wounded internations japan the earthquake japan leaves least *a million houses electricity left* in indicate that in url via in northeast of japan more least people were than a **hundred wounded** in a powerful earthquake wounded. he was with 100 after the powerful earthquake in northeastern more than a hundred url via inter this morning in japan **wounded in a url at least 30 people** a 7.3size
 
 English
 
-100plus *a 7.3magnitude earthquake* japans **injured dozens of people**, authorities after japan earthquake **injures 100 people**, quake that **killed thou**
+powerful earthquake strikes fukushima prefecture in northeastern of authorities meteo update jijicomeng *powerful 7.3* **people were injured** in an powerful earthquake strikes **48 injuries** reported japannews earthquake off a *magnitude of 7.3* off fukushima in northern japan after leaving more **nearly 100 people injured** magnitude of struck off northeastern trains halted
 
-IN — 3, UIN — 3, OUT — 1, UOUT — 1
 
 #### Nafi SotA
 
