@@ -1,62 +1,69 @@
 ### Australia bushfires — Service
 
 
-
-#### Approach (K-20)
+#### Diversified Approach
 
 Multilingual
 
-A **kangaroo can't help but hug the volunteers who rescued him** in australia. a bitch **rescued a koala that had been lost** in australia. a **kangaroo can't help but hug the volunteers** who rescued him in australia.
-
-IN — 3, UIN — 3, OUT — 0, UOUT — 0
+**a bitch rescued a koala** that had been lost in australia **did not stop hugging volunteers who rescued him** in australia. **two young people have rescued several Koalas** on Isla Banguoro, australia, when introducing them into their car to save them from l... **kangaroo can't help but hug the volunteers** who rescued him in australia. he is looking for...
+**firefighters arrive in australia** to help fight the fires
 
 English
 
-**over 600 bats were transported** from caring facilities evacuated in new south wales due to fire. **australia zoo is helping to save the lives of over 90,000 animals** hurt in fires in australia. **the zoo treats over 90,000 animals** hurt in fires in australia
+australia has **4000 women volunteer firefighters** and there are women in the us crew. *a billion animals have been caught* in australia’s fires. some may go extinct. a **zoo in australia is helping to save the lives of over 90,000 animals** hurt in fires.
 
-IN — 3, UIN — 3, OUT — 0, UOUT — 0 
+
+#### Approach
+
+Multilingual
+
+**firefighters have arrived in australia**: "we are coming to see how we can help them" want to fly to australia to become a volunteer for Koalas huhuhu, I can only see the video, they are recovering, pa... sikh **volunteers serve free meals to bushfire victims** in australia. **did not stop hugging volunteers who rescued** him in australia. **kangaroo can't help but hug the volunteers** who rescued him in australia. **two young people have rescued several Koalas** on Isla Banguoro, Australia, when introducing them into their car to save them from a forest fire. **kangaroo continues to Embrace life-saving volunteers** in australia. some of these children are said to have been named after the firefighters in heaven.
+
+English
+
+**australia zoo is helping to save the lives of over 90,000 animals**, many of which were injured in australia’s raging wildfires. *more than 100 koalas injured* in south australia’s bushfires are **being given 24/7 care by Adelaide Koala Rescue volunteers**. **more than 600 bats were transported from caring facilities evacuated** in new s...**US firefighters applauded** as they arrive at Sydney International Airport to assist with the ongoing bushfires.
+
 
 #### Baseline
 
 Multilingual
 
-**100 fire brigade members arrived from the united states from the united states to support the fire fighting activities of forest fires**. the **american firefighters came as reinforcements greeted as heroes** in sydney. australian people who are applauding - pray for the safety of my sister, one of the fire and **rescue members, who will leave for australia**.
-
-IN — 3, UIN — 3, OUT — 0, UOUT — 0 
+*480 million animals have already died* in the fires in australia. *more than a billion animals have already perished* in the fires in australia. it is estimated that *the fires in australia have killed more than 1 billion animals*. philosopher clive hamilton fears an "animal holocaust" via... : controversy looms over the plan to remove millions of cats that are damaging the ecosystem.... : **koalas rescued from fires** in australia.
 
 English
 
-*the total area burnt in australia has reached a poignant size for me, 32,500 sq miles*. "there are currently 8 active fires in NSW and victoria which are bigger than california’s largest blaze on record" 
+**firefighters from the u.s. arrived** in australia to help fight the country's devastating bushfires. **over 600 bats were transported from caring facilities evacuated** in new south wales due to fire. our australia zoo wildli... RT : **Several young wallaby joeys were transported to an ecologist** who runs a wallaby-relocation project, to be treated after their moth... RT : **there are hundreds of Scientology Volunteer** Minister
 
-IN — 0, UIN — 0, OUT — 1, UOUT — 1 
 
 #### Centroid
 
 Multilingual
 
-the **heroes on four legs rescue fire animals** in australia **72 thousand volunteer firefighters fight the flames** in australia. **volunteers from the u.s. are received with applause when arriving at australia** to fight the devastating. fires in australia are *leaving smoke columns up to 17 kilometers high* and "firestorms"
-
-IN — 3, UIN — 3, OUT — 1, UOUT — 1 
+: **The heroes on four legs rescue Fire animals** in Australia  **72 thousand volunteer firefighters fight the flames** in Australia.
+We do not have ... : Petition: NO to *the massacre of 10,000 dromedaries* in Australia!
+**American Firefighters Greeted With Applause** in Sydney AS They Arri ... : A burning flame everywhere in Australia.
+But summer has just begun 😢  Both people and animals are scared.
+While **the American fire brigade who has come to digestive activity is applauded at the airport**, it is a demonstration that prompts breaks from fossil fuel in Morrison in various places.
+Some people come from other countries to meet harsh work.
 
 English
 
-**the first two Saskatchewan fire fighters just returned to Saskatoon** after 38 days in australia helping with the wildfires. australia has **4000 women volunteer firefighters** and there are women in the us crew.
+**The first two Saskatchewan fire fighters just returned** to Saskatoon after 38 days in Australia helping with the wildfires…   Australia has **4000 women volunteer firefighters** and there are women in the US crew.
+So glad many are being rescued and cared for.
+So awesome.
+Australians breakout in spontaneous applause.
 
-IN — 2, UIN — 2, OUT — 0, UOUT — 0 
 
 #### CX\_DB8
 
 Multilingual
 
-the flames in australia. canal 1 tele . **100 australia embracing their rescuers** they ask **240,000 people to evacuate areas** threatened
-
-IN — 2, UIN — 2, OUT — 0, UOUT — 0 
+*100 koalas* people to fires in australia he from australia fire did not stop the australia, fires theres aust ... she patsy, the that **saved 900 sheep from fires** fire specialists australia to fight against ... thousands ... rescued in australia, look at **they ask 240,000 people evacuate** continue to reach **they ask rescuers and firefighters were able to specimen** still alive. bear, the pa ... the a young man has managed wo
 
 English
 
-**there are women climate protests in australia amid bushfire evacuations** to assist australia to help battle the the sound of cheering
+**applause when arrived way with american** got a heros welcome when they arrived help battle countrys devastating fires. htt american u.s. australiagod bless america as australia to battle irwin us arriving in to countrys got a welcome been tirelessly so can **send firefighters** at sydney international airport to bushfires australia to join in the battle the public as they arrive saw the as **they the us arriving australia to help countrys**
 
-IN — 1, UIN — 1, OUT — 0, UOUT — 0 
 
 #### Nafi SotA
 
@@ -68,8 +75,6 @@ Multilingual
 **man rescues koalas** in his car .. koalas in his car .. australia australiafire koalas in his car .. australia australiafire koalas in his car .. australia australiafire koalas in
 **240,000 people to evacuate areas** threatened by fires in australia
 
-IN — 5, UIN — 5, OUT — 0, UOUT — 0 
-
 English
 
 **the first two saskatchewan fire fighters returned to saskatoon** after 38 days in australia helping with the wildfires wildfires helping with the wildfires wildfires helping with the wildfires wildfires helping
@@ -77,5 +82,3 @@ English
 *hundreds of animals during wildfires* raging across au au .
 sdm*1 an injured koala recuperates* at the kangaroo island wildlife park on kangaroo island, australia. *more than 1 billion animal* animal australia. more than 1 billion animal animal australia. more
 video of us **soldiers arriving to help** contain the fires started by arsons in australiaa well deserved standing ovation standing ovation standing ovation standing ovation standing ovation standing ovation standing
-
-IN — 3, UIN — 3, OUT — 3, UOUT — 3 
