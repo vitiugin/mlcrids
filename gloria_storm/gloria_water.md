@@ -1,50 +1,50 @@
 ### Gloria storm — Water
 
 
-
-#### Approach (K-20)
+#### Diversified Approach
 
 Multilingual
 
-**the sea goes upstream** Gloria Gloria will **travel to the Gulf of Cádiz sending rains to extremadura**. RT : *Vandalized homes*, *vandalized boardwalks*, and *rubble-strewn businesses*. it is the chaos that the storm has left... RT : **Several streets adjacent to the Passeig de mar in Girona have been flooded with sea foam**
+the storm Gloria causes **the largest wave ever measured in the western Mediterranean**. the waves enter through the underground passage, **completely flooded in front of the Badalona train station**. in Girona **the flooding of several rivers** worries. snow makes trans...
+a *dividing wall falls on top of the jesus maria infant school building*, in Carrer de Tamarit, in morella. *streets of morella have no light* and neighbors have to use batteries or a cell phone flashlight to get home. a *woman dies on the street* in gandia due to a cold wave. She dies frozen in the cold, alone, on the street.
 
-IN — 3, UIN — 3, OUT — 1, UOUT — 1
+
+#### Approach
+
+Multilingual
+
+storm Gloria hit the village of racou in the town of argelès-sur-mer. *total of 215 roads affected* throughout the country by the storm Gloria. the **storm ‘Gloria’ already adds 56.8 mm of rain to the mediterranean**.*homes destroyed, promenades destroyed and businesses full of rubble*. it is the chaos that the storm has left. Mediterranean Sea is still very agitated by the incidence of the Storm Glory. the passage of the storm Gloria has caused **leaks, water leaks** and *power and telephone cuts* in the sanitary system.images of a **foam invasion in Tossa de mar** as a result of the storm 'Gloria' storm Gloria unleashed in the Mediterranean with *torrential rains* and **14 meters of sea foam**.
+
 
 #### Baseline
 
 Multilingual
 
-storm Gloria **raises a spectacular white blanket of sea foam that has covered the streets in tossa de mar (Girona)** RT : *homes destroyed*, *promenades destroyed* and *businesses full of rubble*. it is the chaos that the storm has left '... **The Ebro delta has practically disappeared the sea goes upstream Gloria**... RT : **ACCESS TO THE BESOS RIVER PARK IS TOTALLY PROHIBITED**. **park flood alert**. evacuation area and closed access...
+a *homeless woman dies* on the street in Valencia due to hypothermia and she is to blame for not wanting to go to a... RT : VIDEO | The storm Gloria keeps *twelve communities in red*, aragon and catalonia in red. RT : VIDEO | The *fall of a construction crane&, as a result of the storm Gloria... RT : VIDEO | The *storm Gloria destroys the streets* of... RT : VIDEO |
 
-IN — 4, UIN — 4, OUT — 1, UOUT — 1
 
 #### Centroid
 
 Multilingual
 
-**the catalan coast is suffering the worst storm** in the levante of this century. **the high waves** are beginning to *sink some boats in the Port Olimpic of Barcelona*. the eastern *storm will leave real waterspouts*. **more than 200 l / m2 will accumulate in some areas**
+TemporalA3N | The storm 'Gloria' **floods the streets of Tossa de Mar with sea foam**  https: //t.co…  : The storm Gloria hits Catalonia with force.
+**More than 200 l / m2 will accumulate in some areas** and the fr ...  _sevilla: Direct | *Power outages*, **floods**, *road closures and train stoppages*: Gloria continues to hit 27 provinces https: ...  _blau: A **wave hits the tracks and breaks more glass at the train station**.
+Badalona   : ⚠ *High risk of river overflow* in:
 
-IN — 3, UIN — 3, OUT — 2, UOUT — 2
+➡ Alt Empordà
+➡ Baix Empordà
+➡ Forest
+➡ Girona
+➡ Pla de l'Estany
+➡ Terra Alt  : The Gloria does its thing.
 
-English
-
-Video Shows Waist-High **Sea Foam FLOODING A Spanish Town** After Deadly Winter Storm Gloria. storm Gloria: *wind, rain, flooding and snow* batter parts of spain. fantastic thread on the history and likely **demise of the ebro delta** estuary in spain.
-
-IN — 2, UIN — 2, OUT — 1, UOUT — 1
 
 #### CX\_DB8
 
 Multilingual
 
-flooding the catalan coast is **waters penetrate sink in the port olmpic** of blanket of sea **sea foam reaches the tossa de mar**
+**flooding the catalan coast* is waters penetrate sink in the port olmpic** of blanket of sea **sea foam reaches the tossa de mar**, in girona. vinalop the passage of gloria **floods in tossa** a result of the storm gloria *two hundred roads affected*, *power cuts*, **floods** and thousands the balance tuesday.http ... well plains ...1,500 of electricity and ghrissia the first images **sea of foam in the spanish streets** because of storm gl
 
-IN — 2, UIN — 2, OUT — 0, UOUT — 0
-
-English
-
-the **streets of this spanish town are sea foam** storm the city **sea foam the town of tossa** deadly storm gloria the delay. 
-
-IN — 2, UIN — 2, OUT — 0, UOUT — 0
 
 #### Nafi SotA
 
@@ -55,15 +55,3 @@ storm gloria hits catalonia with force. in **girona the flooding of several rive
 the catalan coast is suffering the worst storm in the levante of this century while **the waters penetrate in the levante** of this century while the waters penetrate in the
 ale the eastern **storm will leave real waterspouts**. more than **200 m2 will accumulate in some areas** .
 e alea will leave **real waterspouts**. more than **200 m2**
-
-IN — 7, UIN — 6, OUT — 1, UOUT — 1
-
-English
-
-waisthigh **sea foam flooding a spanish town** .
-storm gloria *wind, rain, flooding and snow* batter parts of spain .
-waisthigh **sea foam flooding a spanish town** after deadly winter storm gloria gloria gloria .
-storm gloria *wind, rain, flooding and snow* batter parts of spain .
-storm gloria *wind, rain, flooding and snow* batter parts of spain .
-
-IN — 2, UIN — 1, OUT — 3, UOUT — 1
