@@ -1,62 +1,65 @@
 ### Taal volcano eruption — Casualties
 
 
-
-#### Approach (K-20)
+#### Diversified Approach
 
 Multilingual
 
-**Thousands of evacuees** due to volcano eruption in the Philippines. RT : Hello, Friends! We are going to my Fam in Batangas in Jan 16 (Thurs) for those affected by ashfall. RT : I am **one of the evacuees** and we are affected by the eruption of the taal volcanine
-
-IN — 2, UIN — 2, OUT — 0, UOUT — 0
+at least **20,000 people have taken refuge in evacuation centers**. evacuees need masks. there are also many evacuees in need. evacuees need food, water, shelter and medical help.
+more than **30 thousand people evacuated** due to the eruption of the Taal volcano in the Philippines. Taal volcano eruption **threatens the lives of more than 900,000 inhabitants**. eruption of the Taal volcano in the Philippines has caused **more than 24,000 people to be evacuated**.
 
 English
 
-**at least 68,600 people are affected** in batangas and Cavite province, of whom more than... RT : "**Three young volunteers died** in a tragic car accident *while doing rescue efforts for taal volcano eruption victims* in... RT : "The Philippines *military won't allow people to evacuate with their animal companions*, so we…
+*evacuations underway in 3 towns* in the province of batangas after Taal Volcano in the Philippines erupted with a *massive plume of ash and steam*. a total of **at least 300,000 people have been evacuated from their homes** in the philippines as the *volcano continues to erupt*. '**three young volunteers died** in a tragic car accident while doing rescue efforts for taal volcano erup
+**thousands near the Taal volcano have been evacuated** as *experts warn of another hazardous explosive eruption* to come rock Philippines indicating *rising magma* at Taal volcano. mercymalaysia sending a team this saturday to monitor the situation. *evacuees have headed back to the ash-covered area to rescue their animals*.
 
-IN — 2, UIN — 2, OUT — 2, UOUT — 2
+#### Approach
+
+Multilingual
+
+**three dead** and **over 82,000 people flee** _taal volcano earthquakes make more people flee _taal volcano wakes up, **thousands of people flee** _taal volcano earthquakes make more people flee.**more than 30,000 evacuated** by volcanic eruption in the Philippines. eruption of the Taal volcano in the Philippines has caused **more than 24,000 people to be evacuated**. **more than 30 thousand evacuees**.*evacuees in taal, batangas need masks and food*. *evacuees in taal, batangas need clothes and food*. *evacuees in taal, batangas need clothes and food*. *evacuees in taal, batangas need help with the evacuation centers*.eruption in the Philippines **forces thousands of people to flee**. evacuees due to the activity of the Taal volcano in the Philippines. **more than 30 thousand people evacuated** due to the eruption of the Taal volcano in the Philippines.
+
+English
+
+the Philippines *military won't allow people to evacuate with their animal companions*, so we all need to help each other out! "**Three young volunteers died** in a tragic car accident while doing rescue efforts for Taal Volcano eruption victims in...of *families displaced because of TaalEruption2020*. a lot of them with children. help us bring back color.earthquakes rock Philippines indicating *rising magma* at Taal volcano. **Hundreds of thousands urged to flee**. e*vacuees have headed back to the ash-covered area to rescue their animals*. rare *volcanic lightning* seen as **huge numbers evacuated** in the Philippines.
+
 
 #### Baseline
 
 Multilingual
 
-more than **30,000 people have left their homes** in the affected Batangas province and nearby Cavite, in the Philippines. the expelled *ashes already reach a distance of 14 kilometers and cover several cities* in the country. *the volcano, which is already spitting lava*, has been causing a'state of calamity' in the country.
-
-IN — 1, UIN — 1, OUT — 2, UOUT — 2
+evacuations due to the eruptions of the Taal volcano in the Philippines **affect more than 30,400 people** This is serious!! *Manila and the towns near the VolcánTaal are at SERIOUS RISK*! These fractures tell us the quantity... RT _earth: this is serious!! *Manila and the towns near the VolcánTaal are at SERIOUS RISK*! these fractures tell us the quantity... RT _earth: *PETA Asia rescued horses, dogs, cow*
 
 English
 
-the Philippines *military won't allow people to evacuate with their animal companions*, so we all need to help each other out!. **Thousands of families displaced** because of the eruption, a lot of them with children.... RT : TaalEruption2020 As of 16 January, **over 68,600 people are affected** in batangas and Cavite province.
+the Philippines *military won't allow people to evacuate with their animal companions*, so we all need to help each other out!... RT : *New cracks appeared on the surface* of the Philippines' Taal Volcano 1/15, *suggesting imminent eruption*. mercymalaysia sending a team this saturday to *help evacuate 60,000 people* from the area. RT : *Pineapples have turned gray* in the Philippines from ash spewed by taal volcano. Thousands of families
 
-IN — 2, UIN — 2, OUT — 1, UOUT — 1
 
 #### Centroid
 
 Multilingual
 
-**more than 30,000 people have left their homes** in the affected Batangas province and nearby Cavite, in the Philippines. the *expelled ashes already reach a distance of 14 kilometers* and *cover several cities in the country*. the *volcano, which is already spitting lava*, has been causing a'state of calamity' in the country.
-
-IN — 1, UIN — 1, OUT — 2, UOUT — 2
+Philippines: Taal volcano earthquakes make **more people flee**   The earthquakes of the Taal volcano in the Philippines make the population flee   : CoreaDelSur promised this Thursday *$ 200,000 in humanitarian aid* for some **45,000 Philippine victims** of the volcanic eruption ... Philippines: Taal volcano earthquakes make **more people flee**  _ Philippines: Taal volcano earthquakes make **more people flee**  * Philippines: Taal volcano earthquakes make **more people flee**  **More than 30,000 people left their homes** in the affected Batangas province and nearby Cavite, in the Philippines.
+Correspondent Cintia Godoy brings…  Volcano kicks in in the Philippines and **expels 8,000 residents**
 
 English
 
-quakes and cracks send more people fleeing in Philippines. **Thousands of families displaced** because of the eruption, a lot of them with children. nearly **44,000 people have fled** the "danger zone" around the Philippines' Taal volcano.
+Opinion: I was trapped by ash from the Taal volcano – this is how I escaped   : *Volcano’s quakes and cracks send more people fleeing in Philippines*.
+Help us bring back color to t…  **Thousands of families displaced because of TaalEruption2020**.
+A lot of them with children.
+He’s confident he’s safe there.
 
-IN — 2, UIN — 2, OUT — 0, UOUT — 0
 
 #### CX\_DB8
 
 Multilingual
 
-volcanic eruption volcano earthquakes **make more people than 30,000 people activ** ...** three dead** and **over 82,000 people flee** in the 
-
-IN — 2, UIN — 2, OUT — 0, UOUT — 0
+their homes in the affected batangas province and nearby cavite, in the philippines. the **more than 30 thousand people left their homes** in affected of batangas and nearby philippines. the activ ... three to withdraw from region volcano causes people news on to a volcano has volcano has to that philippines on in the homes. believe that leave. residents, calls to mom vicky, their to their in the midst of towns in the
 
 English
 
-send more people thousands the with children. people have fled lef fears of eruption as thousands taal philippines **three accident** while 
+philippines. **thousands families displaced** because the eruption, a have the *danger zone around philippines taal volcano*. to in causes another big eruption
 
-IN — 1, UIN — 1, OUT — 0, UOUT — 0
 
 #### Nafi SotA
 
@@ -68,13 +71,9 @@ coreadelsur promised *200,000 in humanitarian aid* for **45,000 philippine victi
 philippines taal volcano earthquakes make more people flee flee philippines taal volcano earthquakes make more people flee flee philippines taal volcano earthquakes make more people flee flee philippines taal volcano
 philippines taal volcano earthquakes make more people flee flee philippines taal volcano earthquakes make more people flee flee philippines taal volcano earthquakes make more people flee flee philippines taal volcano
 
-IN — 1, UIN — 1, OUT — 1, UOUT — 1
-
 English
 
 volcanos quakes and cracks send more people fleeing in philippines. quakes and cracks send more people fleeing in philippines. quakes and cracks send more people fleeing in philippines. quakes and
 volcanos quakes and cracks send more people fleeing in philippines. quakes and cracks send more people fleeing in philippines. quakes and cracks send more people fleeing in philippines. quakes and
 **thousands of families displaced** because of the eruption, help us bring back color to t t bring back color to t t bring back color to t t t bring
 **thousands of families displaced** because of taaleruption2020. help us bring back color .
-
-IN — 2, UIN — 1, OUT — 0, UOUT — 0
