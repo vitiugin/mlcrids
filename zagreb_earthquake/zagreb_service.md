@@ -1,62 +1,70 @@
 ### Zagreb earthquake — Service
 
 
-
-#### Approach (K-20)
+#### Diversified Approach
 
 Multilingual
 
-**Ultras from Dinamo Zagreb have gathered to help evacuate babies**. they are **helping the military to move newborns** to other hospitals. the **emergency management office has organized meals** for all citizens who can not return to their homes because of the earthquake
-
-IN — 3, UIN — 3, OUT — 0, UOUT — 0
+**bad blue boys of zagreb are currently moving babies from the Petrova maternity hospital** affected by the earthquake of this... **cheerlers rescheduled maternities** in **supporting blankets and all what they need**, then helped moving part of the maternity hospital zemurotres zagreb dinamo badblueboys. emergency management office Zagreb has **organized meals** for all citizens who can not return to their homes because of the earthq
+**evacuation of babies in incubators** from Beneficiary in Petrov. **tents, sleeping bags, heaters and beds, which Croatia has requested through the joint mechanism of civil protection of the EU, will already arrive** in Zagreb today, prime minister Janez Jansan wrote.
 
 English
 
-a *magnitude 5.3 earthquake* occurred this morning around 05:24 utc, just a few kilometers north of Zagreb, Croatia. the *epicenter of the earthquake was a mere 1km from the city's main train station*. the quake *damaged buildings* in croatia's capital zagreb. a **group of dinamo zagreb fans volunteered to evacuate newborn babies**.
+**newborns in croatia's capitol zagreb are in a safe place**, thank god and good people. earthquake COVID<unk>19 PrayForCroatia **they're moving babies and mothers** bc of the big earthquake that happened this morning in croatia's capitol.
+*5.3 magnitude* earthquake struck zagreb, Croatia this morning. *5.4 earthquake* centered north of the city., this morning. *lots of damage* and *some fires* have been reported from zagreb.
 
-IN — 1, UIN — 1, OUT — 3, UOUT — 3
+
+#### Approach
+
+Multilingual
+
+the city of zagreb has introduced a **free phone line 0800 8805 for citizens directly affected** by today's earthquake. they invite those who remained without their homes or are severely damaged in the earthquake, to immediately answer the special telephone line. zagrebearthquake shook the city of zagreb on tuesday, with a *magnitude of 7.8*.**army came out on the streets** of Zagreb engaged in cleaning the ruins! appeal to everyone to adhere to the spacing to suppress the expansion of sovid19. appeal to everyone to adhere to the spacing to suppress the expansion of coronavirus.in Croatia, **Ultras from dinamo Zagreb gathered to help evacuate babies and women from a maternity hospital**. <unk> 19 down **Bad Blue Boys and the Croatian army that quickly arrived at Peter's hospital today to help relocate born babies, their mothers and all pregnant women to another hospital**.
+
+English
+
+a *5.5 magnitude* earthquake rattled Zagreb, Croatia on sunday morning, local time, *killing at least one person* and *leaving cars crushed* by debris. a *5.3 quake* left *17 injured* in Zagreb, the biggest one to shake the capital in 143 years. witnesses say *several buildings cracked& in Zagreb and *walls and rooftops were damaged*. a *15-year-old girl is in critical condition*.croatia's capitol zagreb was hit by a *6.0-magnitude* earthquake in the early hours of this morning. *the epicenter of the earthquake was a mere 1km from the city's main train station*. fortunately, *no human casualties*,...<unk> b**ad blue boys of dinamo gathered to help people** after *6.0-magnitude* earthquake hit.
+
 
 #### Baseline
 
 Multilingual
 
-earthquake of *magnitude 5.3 on the Richter scale* in Zagreb (Croatia) *no victims have been registered* so far. in the middle of the coronavirus pandemic and in a winter t...
-
-IN — 0, UIN — 0, OUT — 2, UOUT — 2
+a *child was killed* in the earthquake in zagreb. 254 people were infected, Zagreb hit 30 earthquakes. the city introduced a **free telephone line for citizens affected** by an earthquake. Zagreb introduced a **free telephone line for citizens affected** by an earthquake. the city's very important hospitals were also badly affected and, for example, g. hospitals were also badly affected and, for example, g. hospitals were badly damaged and, for example, g. hospitals
 
 English
 
-*the 5.3-magnitude quake* is the largest to affect the city in 140 years. the *epicenter was seven kilometers from Zagreb*. *hospitals are in HUGE proble*... RT _to: a devastating earthquake, the biggest in the last 140 years, *magnitude of 5,5* hit.
+*5.5-magnitude* earthquake hit croatia's capitol zagreb this morning. **dinamo Zagreb supporters volunteered to evacuate newborn babies**. they're **moving babies and mothers** bc of the big earthquake that happened this morning in croatia's capitol zagreb. **all newborns in Zagreb are in a safe place**, thank God and good people. a *5.3-magnitude* earthquake hit the city on thursday, causing.
 
-IN — 0, UIN — 0, OUT — 3, UOUT — 3
 
 #### Centroid
 
 Multilingual
 
-a strong *earthquake magnitude (5.3)* shook ZAGREB (Croatia) the **maternity hospital has to be evacuated** but hands are missing. citizens were quarantined by COVID19 the country has.
-
-IN — 1, UIN — 1, OUT — 1, UOUT — 1
+**The ultras of Dinamo Zagreb collaborating with the Croatian army** after the earthquakes this morning.
+More detailed with the zoom of the map at:    **Meals for all citizens** who can not return to homes     The Emergency Management Office Zagreb has **organized meals** for all citizens who can not return to their homes because of the earthquake, and will be available on Zrinjevac, Mažuranić's Square and Dr. Franjo Tuđman.
+Appeal to everyone to adhere to the spacing to suppress the expansion of sovid19.
+Among other things, Hrvatska also asks for help in the form of **winter tents, folding beds, sleeping bags and electric heaters**.
+Zagreb introduced a **free telephone line for citizens affected** by an earthquake.
+Capacity 500 people!
 
 English
 
-after a *5.5 magnitude earthquake* in Croatia, **supporters of dinamo zagreb, the football club, volunteered to evacuate newborns**. <unk> **badblue boys of dinamo zagreb gathered to help people** after a *6.0-magnitude earthquake* hit Zagreb.
+Evacuation of NICU from Department of Ob/Gyn Petrova Zagreb ZagrebEarthquake Croatia   : After a *5.5 magnitude* earthquake in Croatia, **supporters of Dinamo Zagreb, the football club, volunteered to evacuate newborn**…  : 🇭🇷 **Bad Blue Boys of Dinamo Zagreb gathered to help people** after *6.0-magnitude* earthquake hit Zagreb this morning   : Saddest image from Zagreb earthquake.
+**Mothers with newborns evacuated from hospital**.
+Started to snow.
+earthquake COVIDー19 PrayForCroatia   _petir: **All newborns in Zagreb are in a safe place**, thank God and good people.
 
-IN — 2, UIN — 2, OUT — 2, UOUT — 2
 
 #### CX\_DB8
 
 Multilingual
 
-help authorities after earthquake desportoaominuto **mothers with their babies evacuate** the maternity ward in a hospital paul tremblementdeterrezagreb big
-
-IN — 1, UIN — 1, OUT — 0, UOUT — 0
+shake croatia **m5.3**. from the petrova maternity hospital affected by of zagreb, **bring newborns to other hospitals** and after the in zagreb dinamoultras helped with **cleanup baby station** very easily after earthquake in zagreb here hospitals and hit the streets tourist the zagreb free 0800 give them everything. until helped moving zoom of at **meals all citizens** who can return citizens who return quickly arrived in front petrov hospital to
 
 English
 
-**bad blue boys of dinamo gathered to help** saddest image with hospital. *started to snow*. virus. this a m zagreb earthquake the
+earthquakedam croatia earthquake a people on streets now. outbreak for possible covid19 in a safe bc capitol zagreb. bc of happened
 
-IN — 1, UIN — 1, OUT — 1, UOUT — 1
 
 #### Nafi SotA
 
@@ -68,13 +76,9 @@ earthquake in zagreb croatia *magnitude of 5.5 scale* r. citizens were quarantin
 **cheerleader unites to help authorities after earthquake** desportoaominuto .
 a strong *earthquake magnitude 5.3* shook zagreb croatia
 
-IN — 4, UIN — 3, OUT — 4, UOUT — 4
-
 English
 
 **supporters of dinamo zagreb, volunteered to evacuate the country** .
 saddest image from zagreb earthquake. **mothers with newborns evacuated from hospital**. *started to snow*. virus. this is a m m m m m
 *6.0magnitude earthquake* .
 croatia earthquake a lot on the streets now. bad prediction for possible covid19 outbreak in this country in this country in this country in this country .
-
-IN — 2, UIN — 2, OUT — 2, UOUT — 2
