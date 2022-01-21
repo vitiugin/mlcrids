@@ -3,7 +3,7 @@
 
 #### Diversified Approach
 
-Multilingual
+##### Multilingual
 
 australia braced for fresh hell as **100F heatwave** gives rise to new wave of wildfires. *24 people were prosecuted* on the suspicion of arson and *53 people are strictly projected violations*. wildfire conditions on australia's east coast began to subside on Saturday after a tough night for government officials.
 fires in australia almost *add up in three months the annual emissions of the country 10ene*... **force winds have caused this Friday in the southeast of australia the merger of two huge fires**, convi...'s *fires add 349 million tons of carbon dioxide* in just 3 months'
@@ -16,7 +16,7 @@ australia is in crisis due to the catastrophic megafires that *engulf 12 million
 
 #### Approach
 
-Multilingual
+##### Multilingual
 
 *fires in australia almost add up in three months the annual emissions of the country 10ene*... fires hit australia for months. but the risk of a great fire increases not only in san... in australia suman *349 million tons of carbon dioxide* in just 3 months h.**force winds have caused this Friday in the southeast of australia the merger of two huge fires**, becoming... **the wind causes the junction of two huge blazes** in the south-east **the wind causes the junction of two huge blazes** in the south-east.australia suffers with pleasure **8 hours of rain**. **it's raining** in australia, what a nice news front accompanied by **gusts of wind at 50 to 100 km / h** as well as a **few rain, sometimes thunderstorm**... news about australia's firefront. **it was raining pretty well in south australia** last night, but **it's getting colder today**. below-average forecasts Next week's **temperatures around Melbourne and Sydney**.
 
@@ -27,7 +27,7 @@ English
 
 #### Baseline
 
-Multilingual
+##### Multilingual
 
 *fires in australia have claimed 28 lives.* *smoke from the fires in australia will continue to arrive at Chile*. koalas are making noise, but if the damage of Platypus and rare species is okay - i wonder if the damage of koalas is okay. *the smoke of fires in australia will continue to arrive at Chile* *The smoke from the fires in australia will continue to arrive at Buenos aires and Uruguay*. *wildfires in australia have claimed 28 lives*
 
@@ -38,7 +38,7 @@ australia braces for *another day of wildfires as temperatures flare*. *about 15
 
 #### Centroid
 
-Multilingual
+##### Multilingual
 
 **Hurricane force winds generate a ""megafire""** in Australia   Australia: h**urricane force winds generate a gigantic megafire**, more people flee their homes and increase the protections…   : Australia's forest fires acquire apocalyptic dimensions: they *have issued more CO2 to the atmosphere 49 million* ... **With the rain in Australia, it is the storm** what is calm  **Hurricane winds generate in Australia a gigantic ""megaincliance""**   🔴 **Hurricane winds generate in Australia a gigantic ""megainting""** »   The fires in Australia are leaving *plumes of smoke up to 17 kilometers high* and ""**firestorms**"" h ...
 It comes from the fires in Australia.
@@ -52,9 +52,9 @@ Three fires merge to create massive blaze  **Heatwave, strong winds** fan Austra
 
 #### CX\_DB8
 
-Multilingual
+##### Multilingual
 
-the atmosphere 49 million **the rain** it is **the storm** what is in australia are leaving caused of fires australia, asol ... **hurning winds were started** by australia what friday in southeast australia the huge fires, fire in are of two huge fires in southeast know countries are suffering southeast of fusion two huge fires, convi in australia winds provoke in southeast australia the merger of two huge fires, while thousands of 
+the atmosphere 49 million **the rain** it is **the storm** what is in australia are leaving caused of fires australia, asol ... **hurning winds were started** by australia what friday in southeast australia the huge fires, fire in are of two huge fires in southeast know countries are suffering southeast of fusion two huge fires, convi in australia winds provoke in southeast australia the merger of two huge fires, while thousands of
 
 English
 
@@ -63,7 +63,7 @@ the bushfires our photographers have been wildfires as this and **focus building
 
 #### Nafi SotA
 
-Multilingual
+##### Multilingual
 
 australia **hurricane force winds generate a gigantic megafire**, more *people flee their homes and increase the protections* protections increase the protections .
 australias forest fires acquire apocalyptic dimensions *they have issued more co2 to the atmosphere 49 million* .
